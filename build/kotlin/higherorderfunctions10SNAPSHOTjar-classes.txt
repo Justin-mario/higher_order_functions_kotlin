@@ -1,1 +1,1 @@
-C:\Kotlin_projects\higher_order_functions\build\classes\kotlin\main\Cookie.class;C:\Kotlin_projects\higher_order_functions\build\classes\kotlin\main\MainKt.class
+C:\Kotlin_projects\higher_order_functions\build\classes\kotlin\main\Cookie.class;C:\Kotlin_projects\higher_order_functions\build\classes\kotlin\main\MainKt$main$$inlined$sortedBy$1.class;C:\Kotlin_projects\higher_order_functions\build\classes\kotlin\main\MainKt.class
